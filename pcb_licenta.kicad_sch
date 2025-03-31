@@ -4188,12 +4188,12 @@
 		(uuid "7bfb2316-b9a1-4a1b-90d9-ebac6ad5ab76")
 	)
 	(no_connect
-		(at 134.62 77.47)
-		(uuid "814c4c42-05e7-4d06-b67d-e0765a0c76a6")
-	)
-	(no_connect
 		(at 173.99 46.99)
 		(uuid "85c5fb0a-5caa-48c6-9d1e-b7ba1316abf0")
+	)
+	(no_connect
+		(at 33.02 72.39)
+		(uuid "b6c9627f-31fc-42e4-b57d-b981d171225e")
 	)
 	(no_connect
 		(at 58.42 39.37)
@@ -7108,7 +7108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
 			(at 240.03 132.08 0)
 			(effects
 				(font

@@ -1,0 +1,36 @@
+### Module positions - created on 2025-03-30 16:01
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 95.010mm, Pcb Width 50.040mm [based on Edge bounding box]
+## Side : top
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+J1            USB_C_Receptacle_.. USB_C_Receptacle_G-Switch_G.. 107.4900   -43.4350   0.0000     0.0000       18.0    top       SMD
+BT1           BH-18650-B1BA002    BATTERY-SMD_18650-1S-L77.1-.. 89.2700    -86.8900   89.2700    -128.2000     0.0    top       SMD
+C1            100nF               C_0201_0603Metric             115.9550   -113.1700  116.2750   -113.1700    18.0    top       SMD
+C3            100nF               C_0201_0603Metric             104.5200   -121.0900  104.8400   -121.0900    18.0    top       SMD
+C4            100nF               C_0201_0603Metric             104.5200   -123.0900  104.2000   -123.0900     0.0    top       SMD
+C5            4.7uF               C_0201_0603Metric             107.2200   -62.3050   107.5400   -62.3050     18.0    top       SMD
+C6            4.7uF               C_0201_0603Metric             111.9500   -60.0450   111.9500   -60.3650      9.0    top       SMD
+C7            22uF                C_0201_0603Metric             105.9300   -69.2900   105.9300   -69.6100      9.0    top       SMD
+C8            100nF               C_0201_0603Metric             104.8600   -69.2900   104.8600   -69.6100      9.0    top       SMD
+C9            1uF                 C_0201_0603Metric             121.0650   -52.4300   120.7450   -52.4300      0.0    top       SMD
+C10           100nF               C_0201_0603Metric             121.0850   -53.8100   120.7650   -53.8100      0.0    top       SMD
+R1            10k                 C_0201_0603Metric             111.9600   -120.9850  111.9600   -121.3050     9.0    top       SMD
+R2            10k                 C_0201_0603Metric             111.9800   -122.8000  111.9800   -122.4800    -9.0    top       SMD
+R6            10k                 R_0201_0603Metric             121.0800   -51.0800   121.4000   -51.0800     18.0    top       SMD
+R7            5.1k                C_0201_0603Metric             108.0600   -49.5550   108.0600   -49.2350     -9.0    top       SMD
+R8            5.1k                C_0201_0603Metric             106.7100   -49.5650   106.7100   -49.2450     -9.0    top       SMD
+ENBLE         TS-1088-AR02016     SW-SMD_L3.9-W3.0-P4.45        120.0000   -58.3900   117.8200   -58.3900      0.0    top       SMD
+BOOT          TS-1088-AR02016     SW-SMD_L3.9-W3.0-P4.45        120.0000   -64.6900   117.8200   -64.6900      0.0    top       SMD
+U1            ESP32-S3-WROOM-1U   WIRELM-SMD_ESP32-S3-WROOM-1U  112.4600   -82.3600   103.7100   -73.4700      0.0    top       SMD
+R4            330k                R_0603_1608Metric             110.4000   -54.6800   109.5750   -54.6800      0.0    top       SMD
+R5            100k                R_0603_1608Metric             103.1750   -63.3700   102.3500   -63.3700      0.0    top       SMD
+Q1            XC6220B331MR-G      SOT-25_L3.0-W1.6-P0.95-LS2... 109.2800   -59.5300   107.9800   -58.5800      0.0    top       SMD
+D1            SS34_C8678          SMA_L4.3-W2.6-LS5.2-RD        109.6400   -64.5750   111.8400   -64.5750     18.0    top       SMD
+Q2            AO3401A             SOT-23                        104.2425   -59.4500   105.1800   -60.4000     18.0    top       SMD
+U3            BME688_C3664478     LGA-8_L3.0-W3.0-P0.80_BME688  108.8700   -122.1100  110.2900   -120.9100     0.0    top       SMD
+R3            1M                  R_0603_1608Metric             104.7750   -54.6800   103.9500   -54.6800      0.0    top       SMD
+U2            E22-900M22S         WIRELM-SMD_E22-900M22S        111.7400   -104.2500  103.2400   -111.2500    -9.0    top       SMD
+C2            10uF                C_0805_2012Metric             114.9800   -115.1000  115.9300   -115.1000    18.0    top       SMD
+## End

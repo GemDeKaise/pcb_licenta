@@ -7108,7 +7108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
+		(property "Footprint" "easyeda2kicad:USB-C-SMD_TYPE-C-USB-17"
 			(at 240.03 132.08 0)
 			(effects
 				(font
